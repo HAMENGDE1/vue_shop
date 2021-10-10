@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145442",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "591719",
+      "name": "wxb报表",
+      "font_class": "wxbbaobiao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "658044",
+      "name": "解锁",
+      "font_class": "jiesuo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1727271",
+      "name": "06商品-线性",
+      "font_class": "shangpin-xianxing",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "1727360",
+      "name": "25单据-线性",
+      "font_class": "danju-xianxing",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "1727368",
+      "name": "28体积、空间-线性",
+      "font_class": "tijikongjian-xianxing",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "4933375",
+      "name": "人物-人",
+      "font_class": "renwu-ren",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    }
+  ]
+}
