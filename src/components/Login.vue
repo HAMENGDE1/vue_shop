@@ -66,7 +66,7 @@ export default {
         // console.log(this.$message);
         // console.log('登陆失败')
         // console.log('登录成功')
-        console.log(res);
+        // console.log(res);
         window.sessionStorage.setItem("token",res.data.token);
         this.$router.push('/home')
 
