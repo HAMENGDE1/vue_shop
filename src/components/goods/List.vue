@@ -18,7 +18,6 @@
           class="input-with-select"
         >
           <el-button
-         
             @click="getGoodsListData"
             slot="append"
             icon="el-icon-search"
