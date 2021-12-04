@@ -33,7 +33,7 @@
               </template>
           </el-table-column>
           <el-table-column label="操作" >
-              <template slot-scope="scope">
+              <template >
                   <el-button @click="showBox" type="primary" icon="el-icon-edit"></el-button>
                   <el-button @click="showProgressBox" type="success" icon="el-icon-location"></el-button>
               </template>
@@ -162,7 +162,7 @@ export default {
       // this.$message.success('获取物流进度成功！')
       // console.log(res.data)
       this.progressDialogVisible=true
-      console.log(this.progressInfo)
+      // console.log(this.progressInfo)
     }
   },
   mounted() {},
